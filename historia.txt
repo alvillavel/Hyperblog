@@ -3,5 +3,5 @@ Tengo 42 año y soy Alvaro Villa Villa
 Hablaremos de finanzas y economia 
 
 
-Hola Git y Github para finanzas
+Hola Git y Github para finanzas y analitica 
 
